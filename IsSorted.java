@@ -26,6 +26,6 @@ public class IsSorted {
         System.out.println(isSorted(a)); // true
 
         int[] b = {1, 3, 2};
-        System.out.println(isSorted(b)); // false
+        System.out.println(isSorted(b)); // fal
     }
 }
