@@ -1,3 +1,8 @@
+/*
+Feedback: nicely written :)
+no need to check this condition each time - if (i >= a.length - 1)
+*/
+
 public class IsSorted {
 
     // Public function: called by the user
