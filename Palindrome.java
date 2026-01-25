@@ -1,3 +1,6 @@
+/*
+Feedback: not sure the return true is needed here 
+
 /** Checks if a given string is a palindrome. */
 public class Palindrome {
 
@@ -16,4 +19,5 @@ public class Palindrome {
 		}
 		return true&& isPalindrome(s.substring(1, s.length()-1));
   }
+
 }
